@@ -101,7 +101,7 @@ Token名称：ZJUBCA。
 
 ### 2. 投票
 
-为了进一步实现协会组织的DAO化，协会专门设计了提案系统[zjubca.proposal]()。所有协会成员均可[创建提案](https://github.com/Blockchain-zju/zjubca.proposals/issues/new)中，并使用协会Token对提案进行投票。投票并不消耗真实的Token，Token数量表征着投票的权重值。
+为了进一步实现协会组织的DAO化，协会专门设计了提案系统[zjubca.proposal](https://github.com/Blockchain-zju/zjubca.proposals)。所有协会成员均可[创建提案](https://github.com/Blockchain-zju/zjubca.proposals/issues/new)中，并使用协会Token对提案进行投票。投票并不消耗真实的Token，Token数量表征着投票的权重值。
 
 所有已通过提案均归档于[仓库](https://github.com/Blockchain-zju/zjubca.proposals)。
 
