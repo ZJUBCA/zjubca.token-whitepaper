@@ -14,7 +14,7 @@
 
 ## 发行计划
 
-协会Token基于**EOS麒麟测试网**发行，Token合约账户名为: `zjubcatoken1`。测试账户`zjubcatokent`。
+协会Token基于**EOS麒麟测试网**发行，Token合约账户名为: `zjubcatokens`。测试账户`zjubcatokent`。
 
 协会Token合约具有如下特性：
 
